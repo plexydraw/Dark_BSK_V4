@@ -14,7 +14,7 @@
 
 **Dark BSK** — ARG OSINT terminal tool
 
-*developed by Floyd and Nexuzz*
+*developed by PlexyDraw*
 
 </div>
 
@@ -31,11 +31,11 @@
 
 <div align="center">
 
-<img src="./img/image1.png" width="49%" />
-<img src="./img/image2.png" width="49%" />
+<img src="image1.png" width="49%" />
+<img src="image2.png" width="49%" />
 
-<img src="./img/image3.png" width="49%" />
-<img src="./img/image4.png" width="49%" />
+<img src="image3.png" width="49%" />
+<img src="image4.png" width="49%" />
 
 </div>
 
